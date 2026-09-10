@@ -32,6 +32,6 @@ int main()
 
    printf("Second Largest = %d", secondLargest);
 
-    return 0;
+    return(0);
 }
 
